@@ -12,7 +12,7 @@ A simple **menu-driven Java console application** for managing users, built usin
 * Persistent storage in **Oracle DB**
 * Clean DAO architecture for scalability
 
-### 🗄 Database Setup
+### Database Setup
 <img width="567" height="419" alt="TableCreation" src="https://github.com/user-attachments/assets/47cb280a-d521-4a50-acc1-a20426765cb0" />
 
 ## Project Structure
